@@ -20,3 +20,4 @@ Task 10: Write a script that sets the mode of the file hello the same as ollehâ€
 The file hello will be in the working directory
 The file olleh will be in the working directory
 Task 11: Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+Task 12: Create a script that creates a directory called my_dir with permissions 751 in the working directory.
